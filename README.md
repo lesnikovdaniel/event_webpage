@@ -1,2 +1,5 @@
 # event_webpage
 Event Webpage
+This is an important full stack project for portfolio. This full stack web development project will basically contain information about meetings and events. The event webpage is also open to imagination and creativity. This project can have as many options as you like, you can even create a register option for individuals or groups of people planning to attend the event. This project would addon your resume more if you add interesting features like a section of the website can contain information like intent or category of the meeting. A variety of images can be inserted on the webpage including that of the presenter, venue and other relevant to the cause.
+
+The meeting webpage is a full stack project idea to build your portfolio and hence the layout of the page should be well defined and there should be distinct parts like the navigation bar, header, footer etc. The overall design and colour palette of the website should be appropriate yet attractive and easy to use.
